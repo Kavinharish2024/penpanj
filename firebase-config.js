@@ -1,10 +1,8 @@
-// Paste your Firebase web app config here (Firebase console > Project settings > Your apps > Web app).
-// These values are safe to publish: security comes from firestore.rules, not from hiding this.
 const FIREBASE_CONFIG = {
-  apiKey: "PASTE_HERE",
-  authDomain: "PASTE_HERE.firebaseapp.com",
-  projectId: "PASTE_HERE",
-  storageBucket: "PASTE_HERE.appspot.com",
-  messagingSenderId: "PASTE_HERE",
-  appId: "PASTE_HERE"
+  apiKey: "AIzaSyBGhLGCizZbnmnqr6sPLEIo21G034dWkZM",
+  authDomain: "penpanj-5eb55.firebaseapp.com",
+  projectId: "penpanj-5eb55",
+  storageBucket: "penpanj-5eb55.firebasestorage.app",
+  messagingSenderId: "773171823411",
+  appId: "1:773171823411:web:a51fc248bc008191dd3446"
 };
